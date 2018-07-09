@@ -1,0 +1,55 @@
+
+
+/* Background Image */
+body, html {
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    
+}
+body {
+    background-image: url(../extra-assignment/images1/architectural-architectural-design-architecture-1029618.jpg);
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* About me Image */
+#image {
+   width: 250px;
+   height: auto;
+   border-radius: 125px;
+   
+    
+}
+h1 {
+    letter-spacing: 2px;
+}
+/* Textbox index page?*/
+.container-fluid {
+    position: relative;
+}
+.introtext {
+    line-height: 2;
+    margin-top: 250px;
+    margin-right: 100px;
+    font-size: 18px;
+    position: relative;
+}
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.container {
+    padding: 20px;
+}
+/* Portfolio page */
+.card {
+    background: transparent;
+    border: none;
+}
+
